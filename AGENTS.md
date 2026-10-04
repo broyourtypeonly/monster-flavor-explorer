@@ -8,3 +8,6 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+- Keep the product catalog as typed static source data linked to official regional pages; this preserves fast loading and makes verification provenance explicit.
+- Persist favorites in browser storage only; the catalog requires no account or backend because favorites are device-local.
